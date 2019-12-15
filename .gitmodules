@@ -1,0 +1,3 @@
+[submodule "libs"]
+	path = libs
+	url = http://github.com/bigMo/SuperiorHackBase

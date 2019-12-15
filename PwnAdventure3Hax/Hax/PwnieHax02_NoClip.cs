@@ -26,13 +26,13 @@ namespace PwnAdventure3Hax.Hax
                     MovePlayerBy(Vector3.UnitY * -100);
                     break;
                 case Keys.NumPad6:
-                    MovePlayerBy(Vector3.UnitY * 100);
+                    MovePlayerBy(Vector3.UnitX * 100);
                     break;
                 case Keys.NumPad4:
-                    MovePlayerBy(Vector3.UnitY * -100);
+                    MovePlayerBy(Vector3.UnitX * -100);
                     break;
                 case Keys.NumPad9:
-                    MovePlayerBy(Vector3.UnitZ * 100);
+                    MovePlayerBy(Vector3.UnitZ * 10000);
                     break;
                 case Keys.NumPad3:
                     MovePlayerBy(Vector3.UnitZ * -50);
